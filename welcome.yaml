@@ -104,51 +104,51 @@
   template: "{EMOJI} **{NAME}**: {DESCRIPTION}"
 
   roles:
-    737894145246494792:
+    "737894145246494792":
       description: "Trans, Intersex and Gender Diverse"
-      emoji: "<:transheart:948059612031115345>"
+      emoji: "<:transgender_flag:1033312200418402324>"
 
-    737894160673275954:
+    "737894160673275954":
       description: "Asexual and Aromantic"
       emoji: "<:asexualheart:948059612031115345>"
 
-    737894268466888844:
+    "737894268466888844":
       description: "Bi-, Pan- or Omnisexual"
       emoji: "<:pansexualheart:948059612031115345>"
 
-    737892656494936134:
+    "737892656494936134":
       description: "Queer, Trans and Intersex People of Colour"
       emoji: "<:qtipocheart:948059612031115345>"
 
-    737894341007376444:
+    "737894341007376444":
       description: "Aboriginal and First Nations"
       emoji: "<:indigenousflag:948059612031115345>"
 
-    737894059183702027:
+    "737894059183702027":
       description: "Queer International Students"
       emoji: "<:globe_with_meridians:948059612031115345>"
 
-    737894309126209578:
+    "737894309126209578":
       description: "Queer Disabled Students"
       emoji: "<:wheelchair:737908306995183629>"
 
-    737894240595476511:
+    "737894240595476511":
       description: "Queer Neurodiverse Students"
       emoji: "<:neurodiversity:1033262104016334868>"
 
-    944520188743786587:
+    "944520188743786587":
       description: "Queer Pluralfolk. [More Info](https://bit.ly/3BxfQJQ) - DM <@94587373593042944> for non-role access"
       emoji: "<:pluralheart:948059612031115345>"
 
-    737894177257553970:
+    "737894177257553970":
       description: "Queer People of Faith"
       emoji: "<:place_of_worship:948059612031115345>"
 
-    737894282492510329:
+    "737894282492510329":
       description: "Queer Rural and Regional Students"
       emoji: "<:cowboy:948059612031115345>"
 
-    737894122198794354:
+    "737894122198794354":
       description: "Queer and Questioning Folk Who Identify With or As Women"
       emoji: "<:female_sign:948059612031115345>"
 
@@ -159,42 +159,42 @@
 
   title: "Pronoun Roles"
   description: "Feel free to request additional pronouns."
-  template: "**>>** **{NAME}**"
+  template: "**>>** *{NAME}*"
 
   roles:
-    737894737993924638:
+    "737894737993924638":
       description: "she/her"
-    737894765898498098:
+    "737894765898498098":
       description: "they/them"
-    737894790779240538:
+    "737894790779240538":
       description: "he/him"
-    737894805517893632:
+    "737894805517893632":
       description: "it/its"
-    737894827076616253:
+    "737894827076616253":
       description: "fae/faer"
-    737894864015982673:
+    "737894864015982673":
       description: "ze/zir"
-    737894964993851453:
+    "737894964993851453":
       description: "ce/cir"
-    867639847249772563:
+    "867639847249772563":
       description: "xie/xem/xier"
-    867641548909182976:
+    "867641548909182976":
       description: "ze/hir"
-    909324339856429106:
+    "909324339856429106":
       description: "e/em"
-    867643297086046258:
+    "867643297086046258":
       description: "it/its (2nd person)"
-    911269765463564320:
+    "911269765463564320":
       description: "Any pronouns"
-    911269944279314483:
+    "911269944279314483":
       description: "Any neopronouns"
-    1001065129540071464:
+    "1001065129540071464":
       description: "Ask for pronouns"
-    911270310270083133:
+    "911270310270083133":
       description: "No he/him"
-    911270350543814736:
+    "911270350543814736":
       description: "No she/her"
-    944530099745734696:
+    "944530099745734696":
       description: "Check PK"
 
 - type: roles
@@ -206,6 +206,6 @@
   template: "{EMOJI} **{NAME}**: {DESCRIPTION}"
 
   roles:
-    737909609745875006:
+    "737909609745875006":
       description: "Provides access to the NSFW channels (18+ members only)"
       emoji: "<:underage:1033264867345449004>"
