@@ -110,19 +110,19 @@
 
     "737894160673275954":
       description: "Asexual and Aromantic"
-      emoji: "<:asexualheart:948059612031115345>"
+      emoji: "<:white_heart:1033314995401916497>"
 
     "737894268466888844":
       description: "Bi-, Pan- or Omnisexual"
-      emoji: "<:pansexualheart:948059612031115345>"
+      emoji: "<:blue_heart:1033314910148497529>"
 
     "737892656494936134":
       description: "Queer, Trans and Intersex People of Colour"
-      emoji: "<:qtipocheart:948059612031115345>"
+      emoji: "<:brown_heart:1033314910148497529>"
 
     "737894341007376444":
       description: "Aboriginal and First Nations"
-      emoji: "<:indigenous_flag:948059612031115345>"
+      emoji: "<:yellow_circle:1033314910148497529>"
 
     "737894059183702027":
       description: "Queer International Students"
@@ -134,11 +134,11 @@
 
     "737894240595476511":
       description: "Queer Neurodiverse Students"
-      emoji: "<:neurodiversity:1033262104016334868>"
+      emoji: "<:infinity:1033314910148497529>"
 
     "944520188743786587":
       description: "Queer Pluralfolk. [More Info](https://bit.ly/3BxfQJQ) - DM <@94587373593042944> for non-role access"
-      emoji: "<:pluralheart:948059612031115345>"
+      emoji: "<:diamond_shape_with_a_dot_inside:1033314910148497529>"
 
     "737894177257553970":
       description: "Queer People of Faith"
@@ -208,4 +208,4 @@
   roles:
     "737909609745875006":
       description: "Provides access to the NSFW channels (18+ members only)"
-      emoji: "<:underage:1033264867345449004>"
+      emoji: "<:underage:1033315393202307072>"
