@@ -106,51 +106,51 @@
   roles:
     "737894145246494792":
       description: "Trans, Intersex and Gender Diverse"
-      emoji: "<:transgender_flag:1033312200418402324>"
+      emoji: 🏳️‍⚧️
 
     "737894160673275954":
       description: "Asexual and Aromantic"
-      emoji: "<:white_heart:1033314995401916497>"
+      emoji: 🤍
 
     "737894268466888844":
       description: "Bi-, Pan- or Omnisexual"
-      emoji: "<:blue_heart:1033314910148497529>"
+      emoji: 💙
 
     "737892656494936134":
       description: "Queer, Trans and Intersex People of Colour"
-      emoji: "<:brown_heart:1033314910148497529>"
+      emoji: 🤎
 
     "737894341007376444":
       description: "Aboriginal and First Nations"
-      emoji: "<:yellow_circle:1033314910148497529>"
+      emoji: 🟡
 
     "737894059183702027":
       description: "Queer International Students"
-      emoji: "<:globe_with_meridians:948059612031115345>"
+      emoji: 🌐
 
     "737894309126209578":
       description: "Queer Disabled Students"
-      emoji: "<:wheelchair:737908306995183629>"
+      emoji: ♿
 
     "737894240595476511":
       description: "Queer Neurodiverse Students"
-      emoji: "<:infinity:1033314910148497529>"
+      emoji: ♾️
 
     "944520188743786587":
       description: "Queer Pluralfolk. [More Info](https://bit.ly/3BxfQJQ) - DM <@94587373593042944> for non-role access"
-      emoji: "<:diamond_shape_with_a_dot_inside:1033314910148497529>"
+      emoji: 💠
 
     "737894177257553970":
       description: "Queer People of Faith"
-      emoji: "<:place_of_worship:948059612031115345>"
+      emoji: 🛐
 
     "737894282492510329":
       description: "Queer Rural and Regional Students"
-      emoji: "<:cowboy:948059612031115345>"
+      emoji: 🤠
 
     "737894122198794354":
       description: "Queer and Questioning Folk Who Identify With or As Women"
-      emoji: "<:female_sign:948059612031115345>"
+      emoji: ♀️
 
 
 - type: roles
@@ -208,4 +208,4 @@
   roles:
     "737909609745875006":
       description: "Provides access to the NSFW channels (18+ members only)"
-      emoji: "<:underage:1033315393202307072>"
+      emoji: 🔞
