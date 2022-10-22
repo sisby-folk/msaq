@@ -1,0 +1,191 @@
+- type: text
+  text: https://i.imgur.com/qEIhoTD.png
+
+- type: embed
+
+  embeds:
+    - title: Welcome to the MSA Queer Discord Server!
+
+      description: >
+        This is a safe space for queer and questioning students at Monash.
+        Please read the rules below and assign yourself pronoun roles.
+        For queries, complaints, or grievances, please contact server staff.
+
+- type: rules
+
+  rules:
+    Follow the governing rules of this space: >
+      This includes the [MSA Queer Safer Spaces Policy](https://bit.ly/MQD-SSP) and the [Discord Community Guidelines](https://discord.com/guidelines). 
+
+    No bigotry: >
+      We will not accept racism, sexism, ableism, queerphobia, homophobia, lesbophobia, biphobia, transphobia, acephobia, arophobia, fatphobia, plural/sysphobia or engaging in classist, anti-sexwork, or anti-refugee rhetoric.
+
+    Respect other users' boundaries: >
+      This includes obtaining consent before sending DMs, or ‘acting out’ interactions such as with second person pronouns or [*action*]s.
+      Do not overstep boundaries by asking overly personal or invasive questions.
+
+    Content on this server is confidential: >
+      Do not record or capture any activity from this server, or discuss its content with non-members.
+      Be mindful of the risk of outing other server members.
+
+    Do not engage in drama/gossip about other students: >
+      Any legitimate grievances should be raised privately with a Queer Officer or committee member.
+      Active rule violations should be raised using the @moderator ping.
+
+    Respect others’ identity, experiences, and beliefs: >
+      This includes respecting the ways other members wish to be referred to, including pronouns, names, and identifying language.
+
+    Be mindful of your privilege: >
+      Be aware of the privilege you may have and be wary of speaking over or on behalf of marginalised groups.
+
+    Avoid appropriative and ableist language: >
+      Usage of certain words and phrases can be innately harmful due to having ableist connotations, or by being appropriated away from their culture by the speaker.
+
+    Use content warnings: >
+      Content warnings, or CWs, are notices before a message or image to disclose parts of the content that others may want to avoid for their own comfort. 
+      You should provide these (including retroactively) when requested or appropriate. 
+      The content itself should be enclosed in a “spoiler”, hiding it until a user clicks. 
+      User-requested CWs are found in <#867610333137076234>.
+      
+      **Discord Spoilers**
+      Most ways to spoiler text and images are detailed [here](https://support.discord.com/hc/en-us/articles/360022320632). 
+      On some devices, images need to be manually renamed to start with `SPOILER_` instead.
+
+    Keep content accessible: >
+      When posting images, please provide an [image description](https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546).
+
+    Set your nickname: >
+      After joining, you should set your server nickname to clearly reflect the name/s you’d like to be called.
+
+    Do not misuse/disrespect accessibility tools: >
+      [PluralKit](https://pluralkit.me/) is here as aid for self-identification purposes. Role-playing is not allowed.
+      For example, this can be used by [plural systems](https://morethanone.info/) to identify who sent a message. 
+      Due to Discord limitations, these messages will display `[BOT]` - don’t worry, these are real members.
+      React ❓ to find out more about a PluralKit message, or ❗ to ping who sent it.
+      Please set a system tag using `pk;s tag` when using PluralKit here.
+
+- type: embed
+
+  embeds:
+    - title: MQD Facebook Group
+
+      url: "https://www.facebook.com/groups/msaqd/"
+      color: 0x5865F2
+
+      description: >
+        This server runs alongside the MQD facebook group, which you can also use to follow announcements and discussion.
+
+- type: roles
+
+  id: autonomous-group-roles
+
+  title: "Autonomous Group Roles"
+  description: "These roles grant access to channels for the below autonomous groups.\nPlease do not assign yourself to a group to which you do not belong."
+  template: "{EMOJI} **{NAME}**: {DESCRIPTION}\n"
+
+  roles:
+    737894145246494792:
+      description: "Trans, Intersex and Gender Diverse"
+      emoji: "<:transheart:948059612031115345>"
+
+    737894160673275954:
+      description: "Asexual and Aromantic"
+      emoji: "<:asexualheart:948059612031115345>"
+
+    737894268466888844:
+      description: "Bi-, Pan- or Omnisexual"
+      emoji: "<:pansexualheart:948059612031115345>"
+
+    737892656494936134:
+      description: "Queer, Trans and Intersex People of Colour"
+      emoji: "<:qtipocheart:948059612031115345>"
+
+    737894341007376444:
+      description: "Aboriginal and First Nations"
+      emoji: "<:indigenousflag:948059612031115345>"
+
+    737894059183702027:
+      description: "Queer International Students"
+      emoji: "<:globe_with_meridians:948059612031115345>"
+
+    737894309126209578:
+      description: "Queer Disabled Students"
+      emoji: "<:wheelchair:737908306995183629>"
+
+    737894240595476511:
+      description: "Queer Neurodiverse Students"
+      emoji: "<:neurodiversity:1033262104016334868>"
+
+    944520188743786587:
+      description: "Queer Pluralfolk. [More Info](https://bit.ly/3BxfQJQ) - DM <@94587373593042944> for non-role access"
+      emoji: "<:pluralheart:948059612031115345>"
+
+    737894177257553970:
+      description: "Queer People of Faith"
+      emoji: "<:place_of_worship:948059612031115345>"
+
+    737894282492510329:
+      description: "Queer Rural and Regional Students"
+      emoji: "<:cowboy:948059612031115345>"
+
+    737894122198794354:
+      description: "Queer and Questioning Folk Who Identify With or As Women"
+      emoji: "<:female_sign:948059612031115345>"
+
+
+- type: roles
+
+  id: pronoun-roles
+
+  title: "Pronoun Roles"
+  description: "Feel free to request additional pronouns."
+  template: "**>>** **{NAME}**\n"
+
+  roles:
+    737894737993924638:
+      description: "she/her"
+    737894765898498098:
+      description: "they/them"
+    737894790779240538:
+      description: "he/him"
+    737894805517893632:
+      description: "it/its"
+    737894827076616253:
+      description: "fae/faer"
+    737894864015982673:
+      description: "ze/zir"
+    737894964993851453:
+      description: "ce/cir"
+    867639847249772563:
+      description: "xie/xem/xier"
+    867641548909182976:
+      description: "ze/hir"
+    909324339856429106:
+      description: "e/em"
+    867643297086046258:
+      description: "it/its (2nd person)"
+    911269765463564320:
+      description: "Any pronouns"
+    911269944279314483:
+      description: "Any neopronouns"
+    1001065129540071464:
+      description: "Ask for pronouns"
+    911270310270083133:
+      description: "No he/him"
+    911270350543814736:
+      description: "No she/her"
+    944530099745734696:
+      description: "Check PK"
+
+- type: roles
+
+  id: access-roles
+
+  title: "Access Roles"
+  description: "These roles grant access to parts of the server that are restricted to specific people."
+  template: "{EMOJI} **{NAME}**: {DESCRIPTION}\n"
+
+  roles:
+    737909609745875006:
+      description: "Provides access to the NSFW channels (18+ members only)"
+      emoji: "<:underage:1033264867345449004>"
