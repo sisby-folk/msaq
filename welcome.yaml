@@ -9,16 +9,23 @@
       description: >
         This is a safe space for queer and questioning students at Monash.
         
-        Please read the rules below and assign yourself pronoun roles.
-        
         For queries, complaints, or grievances, please contact server staff.
+
+- type: embed
+
+  embeds:
+    - title: Rules for this space
+
+      description: >
+        Along with these rules, server members are required follow the [MQD Safer Spaces Policy](https://bit.ly/MQD-SSP)
+        
+        Additionally, members must abide by [Discord's Community Guidelines](https://discord.com/guidelines). 
+        
+        After reading, please set your pronouns and server nickname to reflect how you'd like to be referred to.
 
 - type: rules
 
   rules:
-    Follow the governing rules of this space: >
-      This includes the [MQD Safer Spaces Policy](https://bit.ly/MQD-SSP) and [Discord's Community Guidelines](https://discord.com/guidelines). 
-
     No bigotry: >
       We will not accept racism, sexism, ableism, queerphobia, homophobia, lesbophobia, biphobia, transphobia, acephobia, arophobia, fatphobia, plural/sysphobia or engaging in classist, anti-sexwork, or anti-refugee rhetoric.
 
@@ -64,9 +71,6 @@
     Keep content accessible: >
       When posting images, please provide an [image description](https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546).
 
-    Set your nickname: >
-      After joining, you should set your server nickname to clearly reflect the name (or names) you’d like to be called.
-
     Do not misuse/disrespect accessibility tools: >
       [PluralKit](https://pluralkit.me/) is here as aid for self-identification purposes. Role-playing is not allowed.
       
@@ -87,7 +91,9 @@
       color: 0x5865F2
 
       description: >
-        This server runs alongside the MQD facebook group, which you can also use to follow announcements and discussion.
+        This server runs alongside the MQD facebook group.
+        
+        Most announcements are sent both to this server and there.
 
 - type: roles
 
@@ -95,7 +101,7 @@
 
   title: "Autonomous Group Roles"
   description: "These roles grant access to channels for the below autonomous groups.\nPlease do not assign yourself to a group to which you do not belong."
-  template: "{EMOJI} **{NAME}**: {DESCRIPTION}\n"
+  template: "{EMOJI} **{NAME}**: {DESCRIPTION}"
 
   roles:
     737894145246494792:
@@ -153,7 +159,7 @@
 
   title: "Pronoun Roles"
   description: "Feel free to request additional pronouns."
-  template: "**>>** **{NAME}**\n"
+  template: "**>>** **{NAME}**"
 
   roles:
     737894737993924638:
@@ -197,7 +203,7 @@
 
   title: "Access Roles"
   description: "These roles grant access to parts of the server that are restricted to specific people."
-  template: "{EMOJI} **{NAME}**: {DESCRIPTION}\n"
+  template: "{EMOJI} **{NAME}**: {DESCRIPTION}"
 
   roles:
     737909609745875006:
