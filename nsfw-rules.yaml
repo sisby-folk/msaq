@@ -1,0 +1,36 @@
+- type: embed
+
+  embeds:
+    - title: NSFW Channel Rules
+
+      color: 0xFFFFFF
+
+      description: >
+        The channels in this category are 18+ discussion spaces covering various topics.
+
+
+        As a queer community, we feel that it is essential to provide these spaces, to allow discussion and expression of often-critical queer experiences.
+
+
+        We offer these spaces for discussion. Please respect the needs of users and understand that some topics are essential to this space as a queer community (e.g. safe sex) - these take priority.
+
+
+- type: rules
+
+  rules:
+    No images or embeds: >
+      Links to images should be captioned with CWs and a spoilered description. 
+      
+      This space isn't for sharing pornography - we're expecting discussion starters, memes, and sfw images.
+
+    No Play: >
+      whether sfw or nsfw, take that to another server or to DMs
+
+    No Flirting: >
+      Advances and expressions of interest should be kept in DMs where possible, though we won't hand out bans over winks between knowing parties.
+
+    Keep Kink in 🔞-nsfw-kink: >
+      You can always move channels by #linking or @pinging where relevant.
+
+    No Kinkshaming: >
+      Make sure your personal preferences are clearly just that - preferences.
