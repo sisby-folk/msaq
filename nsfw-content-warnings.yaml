@@ -1,0 +1,22 @@
+- type: embed
+
+  embeds:
+    - title: NSFW Channel Content Warnings
+
+      color: 0xFFFFFF
+
+      description: >
+        This channel contains a running list of content that server members request be provided with a content warning.
+        
+        This list is specific to nsfw and kink related topics, for use in this category of channels.
+        
+        This list is not exhaustive - generally any kink can be CW'd to help allow other members to opt-in.
+        
+        Please send any requests to members of the <@&1058964816355655690> or <@&1058964785376530513>
+
+    - description: >
+        • Kink "Roles" (e.g. D/s, etc)  
+        
+        • Depictions and Implements of Harm
+
+      color: 0xFFFFFF
