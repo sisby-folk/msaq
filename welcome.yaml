@@ -14,12 +14,28 @@
 - type: embed
 
   embeds:
-    - title: Rules for this space
+    - title: Joining the Server
+
+      color: 0xFFFFFF
 
       description: >
-        Along with these rules, server members are required follow the [MQD Safer Spaces Policy](https://bit.ly/MQD-SSP)
+        First, please read the server rules. 
         
-        Additionally, members must abide by [Discord's Community Guidelines](https://discord.com/guidelines). 
+        Afterwards, you can use the buttons below to grant yourself server access and pronoun roles.
+        
+        Please also set your nickname to reasonably reflect the name(s) you prefer.
+
+- type: embed
+
+  embeds:
+    - title: Rules
+
+      description: >
+        Along with the rules below, members are expected to follow:
+        
+        the [MQD Safer Spaces Policy](https://bit.ly/MQD-SSP)
+        
+        and [Discord's Community Guidelines](https://discord.com/guidelines). 
         
         After reading, please set your pronouns and server nickname to reflect how you'd like to be referred to.
 
@@ -27,7 +43,7 @@
 
   rules:
     No bigotry: >
-      We will not accept racism, sexism, ableism, queerphobia, homophobia, lesbophobia, biphobia, transphobia, acephobia, arophobia, fatphobia, plural/sysphobia or engaging in classist, anti-sexwork, or anti-refugee rhetoric.
+      Do not engage in racism, sexism, ableism, queerphobia, homophobia, lesbophobia, biphobia, transphobia, acephobia, arophobia, fatphobia, plural/sysphobia, nor engage in classist, anti-sexwork, or anti-refugee rhetoric.
 
     Respect other users' boundaries: >
       This includes obtaining consent before sending DMs, or ‘acting out’ interactions such as with second person pronouns or [*action*]s.
@@ -42,7 +58,7 @@
     Do not engage in drama/gossip about other students: >
       Any legitimate grievances should be raised privately with a Queer Officer or committee member.
       
-      Active rule violations should be raised using the @moderator ping.
+      Active rule violations should be raised using the <@&1058964816355655690> ping.
 
     Respect others’ identity, experiences, and beliefs: >
       This includes respecting the ways other members wish to be referred to, including pronouns, names, and identifying language.
@@ -56,13 +72,14 @@
     Use content warnings: >
       Content warnings, or CWs, are notices before a message or image to disclose parts of the content that others may want to avoid for their own comfort. 
       
-      You should provide these (including retroactively) when requested or appropriate. 
       
-      The content itself should be enclosed in a “spoiler”, hiding it until a user clicks. 
+      You should provide these (including retroactively) when requested or appropriate. 
       
       User-requested CWs are found in <#867610333137076234>.
        
       **Discord Spoilers**
+      
+      The content itself should be enclosed in a `||spoiler||`, hiding it until a user clicks. 
       
       Most ways to spoiler text and images are detailed [here](https://support.discord.com/hc/en-us/articles/360022320632). 
       
@@ -72,15 +89,15 @@
       When posting images, please provide an [image description](https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546).
 
     Do not misuse/disrespect accessibility tools: >
-      [PluralKit](https://pluralkit.me/) is here as aid for self-identification purposes. Role-playing is not allowed.
+      [PluralKit](https://pluralkit.me/) is here as aid for self-identification purposes.
       
-      For example, this can be used by [plural systems](https://morethanone.info/) to identify who sent a message. 
+      This can be used by (e.g.) [plural systems](https://morethanone.info/) to identify who sent a message. 
       
-      Due to Discord limitations, these messages will display `[BOT]` - don’t worry, these are real members.
+      These messages will include `[BOT]` - but are sent by real server members.
       
-      React ❓ to find out more about a PluralKit message, or ❗ to ping who sent it.
+      React ❓ to find out more about a PluralKit message, or ❗ to ping the member sent it.
       
-      Please set a system tag using `pk;s tag` when using PluralKit here.
+      When using PluralKit, please set a system tag on this server.
 
 - type: embed
 
@@ -100,56 +117,56 @@
   id: autonomous-group-roles
 
   title: "Autonomous Group Roles"
-  description: "These roles grant access to channels for the below autonomous groups.\nPlease do not assign yourself to a group to which you do not belong."
-  template: "{EMOJI} **{NAME}**: {DESCRIPTION}"
+  description: "These roles grant access to a channel for each autonomous group.\nPlease only join groups to which you belong."
+  template: "{EMOJI} **{NAME}**{DESCRIPTION}"
 
   roles:
     "737894145246494792":
-      description: "Trans, Intersex and Gender Diverse"
+      description: ": Trans, Intersex and Gender Diverse"
       emoji: 🏳️‍⚧️
 
     "737894160673275954":
-      description: "Asexual and Aromantic"
+      description: ": Asexual and Aromantic"
       emoji: 🤍
 
     "737894268466888844":
-      description: "Bi-, Pan- or Omnisexual"
+      description: ": Bi-, Pan- and Omnisexual"
       emoji: 💙
 
     "737892656494936134":
-      description: "Queer, Trans and Intersex People of Colour"
+      description: ": Queer, Trans and Intersex People of Colour"
       emoji: 🤎
 
     "737894341007376444":
-      description: "Aboriginal and First Nations"
+      description: ": Aboriginal and First Nations"
       emoji: 🟡
 
     "737894059183702027":
-      description: "Queer International Students"
+      description: ""
       emoji: 🌐
 
     "737894309126209578":
-      description: "Queer Disabled Students"
+      description: ""
       emoji: ♿
 
     "737894240595476511":
-      description: "Queer Neurodiverse Students"
+      description: ""
       emoji: ♾️
 
     "944520188743786587":
-      description: "Queer Pluralfolk. [More Info](https://bit.ly/3BxfQJQ) - DM <@94587373593042944> for non-role access"
+      description: ": Queer Pluralfolk. [More Info](https://bit.ly/q1pluralrespect) - DM <@94587373593042944> for role-less access"
       emoji: 💠
 
     "737894177257553970":
-      description: "Queer People of Faith"
+      description: ""
       emoji: 🛐
 
     "737894282492510329":
-      description: "Queer Rural and Regional Students"
+      description: ": Rural and Regional"
       emoji: 🤠
 
     "737894122198794354":
-      description: "Queer and Questioning Folk Who Identify With or As Women"
+      description: ": Queer and Questioning folk who identify with or as Women"
       emoji: ♀️
 
 
@@ -158,7 +175,7 @@
   id: pronoun-roles
 
   title: "Pronoun Roles"
-  description: "Feel free to request additional pronouns."
+  description: "Feel free to request other pronouns."
   template: "**>>** *{NAME}*"
 
   roles:
@@ -170,42 +187,47 @@
       description: "he/him"
     "737894805517893632":
       description: "it/its"
-    "737894827076616253":
-      description: "fae/faer"
-    "737894864015982673":
-      description: "ze/zir"
     "737894964993851453":
       description: "ce/cir"
+    "909324339856429106":
+      description: "e/em"
+    "737894827076616253":
+      description: "fae/faer"
     "867639847249772563":
       description: "xie/xem/xier"
     "867641548909182976":
       description: "ze/hir"
-    "909324339856429106":
-      description: "e/em"
+    "737894864015982673":
+      description: "ze/zir"
     "867643297086046258":
-      description: "it/its (2nd person)"
+      description: "(2nd person) it/its"
+    "1058970440007172176":
+      description: "(2nd person) you/y'all"
     "911269765463564320":
       description: "Any pronouns"
     "911269944279314483":
       description: "Any neopronouns"
-    "1001065129540071464":
-      description: "Ask for pronouns"
     "911270310270083133":
       description: "No he/him"
     "911270350543814736":
       description: "No she/her"
     "944530099745734696":
       description: "Check PK"
+    "1001065129540071464":
+      description: "Ask for pronouns"
 
 - type: roles
 
   id: access-roles
 
   title: "Access Roles"
-  description: "These roles grant access to parts of the server that are restricted to specific people."
+  description: "These roles grant access to parts of the server."
   template: "{EMOJI} **{NAME}**: {DESCRIPTION}"
 
   roles:
+    "737892624010051604":
+      description: "Provides access to the main server channels"
+      emoji: 🏳️‍🌈
     "737909609745875006":
       description: "Provides access to the NSFW channels (18+ members only)"
       emoji: 🔞
