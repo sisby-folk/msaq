@@ -1,0 +1,58 @@
+- type: embed
+
+  embeds:
+    - title: Content Warnings
+
+      color: 0xFFFFFF
+
+      description: >
+        This channel contains a running list of content that server members request be provided with a content warning.
+        
+        Please send any requests to members of the <@&1058964816355655690> or <@&1058964785376530513>
+
+    - description: >
+        • Racism / Sexism / Ableism / Transphobia / Biphobia / Acephobia / Homophobia / Lesbophobia / Fatphobia
+        
+        • Classist/Anti-Sexwork/Anti-Refugee Rhetoric (or any rhetoric that otherwise perpetuates oppression)
+        
+        • Body Shaming (Including Self-Shaming)
+        
+        • Abuse
+        
+        • Incest
+        
+        • Depictions of Injury / Blood
+        
+        • Descriptions / Pictures of Food
+        
+        • Pictures of Bugs
+        
+        • Drugs and Alcohol
+        
+        • Flashing Lights
+        
+        • COVID (in detail)
+        
+        • Climate change
+        
+        • Natural disasters and emergencies
+        
+        • Casual Ableism / Ableist language, especially:
+        
+          • Ableist disparagements eg ||lame, dumb, 'disabled'||
+        
+          • Myers and Briggs / IQ
+        
+          • Allusions to linear "intelligence" as being legitimate eg ||smart, stupid, moronic||
+        
+        • Book-burning
+        
+        • Hypnosis
+        
+        • Details of HRT / puberty / affirming surgeries / fertility treatments / menstruation
+        
+        • Symptoms of severe mental health difficulties
+        
+        • Death and suicide
+
+      color: 0xFFFFFF
