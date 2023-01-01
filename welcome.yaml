@@ -117,6 +117,7 @@
   id: autonomous-group-roles
 
   title: "Autonomous Group Roles"
+  color: 0xB57F1E
   description: "These roles grant access to a channel for each autonomous group.\nPlease only join groups to which you belong."
   template: "{EMOJI} **{NAME}**{DESCRIPTION}"
 
@@ -175,8 +176,10 @@
   id: pronoun-roles
 
   title: "Pronoun Roles"
+  color: 0x5A97D9
   description: "Feel free to request other pronouns."
   template: "**>>** *{NAME}*"
+
 
   roles:
     "737894737993924638":
@@ -221,6 +224,7 @@
   id: access-roles
 
   title: "Access Roles"
+  color: 0x5398A9
   description: "These roles grant access to parts of the server."
   template: "{EMOJI} **{NAME}**: {DESCRIPTION}"
 
