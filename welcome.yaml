@@ -1,9 +1,10 @@
 - type: embed
 
-  text: https://i.imgur.com/qEIhoTD.png
-
   embeds:
     - title: Welcome to the MSA Queer Discord Server!
+
+      image:
+        - url: https://i.imgur.com/qEIhoTD.png
 
       description: >
         This is a safe space for queer and questioning students at Monash.
