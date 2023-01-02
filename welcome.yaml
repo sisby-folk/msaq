@@ -11,9 +11,6 @@
         
         For queries, complaints, or grievances, please contact server staff.
 
-- type: embed
-
-  embeds:
     - title: Joining the Server
 
       color: 0xFFFFFF
@@ -25,9 +22,16 @@
         
         Please also set your nickname to reasonably reflect the name(s) you prefer.
 
-- type: embed
+    - title: MQD Facebook Group
 
-  embeds:
+      url: "https://www.facebook.com/groups/msaqd/"
+      color: 0x5865F2
+
+      description: >
+        This server runs alongside the MQD facebook group.
+        
+        Most announcements are sent both to this server and there.
+
     - title: Rules
 
       description: >
@@ -98,19 +102,6 @@
       React ❓ to find out more about a PluralKit message, or ❗ to ping the member sent it.
       
       When using PluralKit, please set a system tag on this server.
-
-- type: embed
-
-  embeds:
-    - title: MQD Facebook Group
-
-      url: "https://www.facebook.com/groups/msaqd/"
-      color: 0x5865F2
-
-      description: >
-        This server runs alongside the MQD facebook group.
-        
-        Most announcements are sent both to this server and there.
 
 - type: roles
 
