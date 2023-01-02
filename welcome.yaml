@@ -115,23 +115,23 @@
   roles:
     "737894145246494792":
       description: ": Trans, Intersex and Gender Diverse"
-      emoji: "<:transheart:737503551705841734>"
+      emoji: 🏳️‍⚧️
 
     "737894160673275954":
       description: ": Asexual and Aromantic"
-      emoji: "<:aroaceheart:977370239773847572>"
+      emoji: 🤍
 
     "737894268466888844":
       description: ": Bi-, Pan- and Omnisexual"
-      emoji: "<:bisexualheart:737503551651184711>"
+      emoji: 🐸
 
     "737892656494936134":
       description: ": Queer, Trans and Intersex People of Colour"
-      emoji: "<:qtipocheart:737520716928254026>"
+      emoji: 🤎
 
     "737894341007376444":
       description: ": Aboriginal and First Nations"
-      emoji: "<:indigenous_flag:1033313243747323904>"
+      emoji: 🟡
 
     "737894059183702027":
       description: ""
@@ -143,11 +143,11 @@
 
     "737894240595476511":
       description: ""
-      emoji: "<:neurodiversity:977370119858692106>"
+      emoji: ♾️
 
     "944520188743786587":
       description: ": Queer Pluralfolk. [More Info](https://bit.ly/q1pluralrespect) - DM <@94587373593042944> for role-less access"
-      emoji: "<:pluralheart:935509393049526352>"
+      emoji: 💠
 
     "737894177257553970":
       description: ""
