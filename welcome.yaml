@@ -11,16 +11,6 @@
         
         For queries, complaints, or grievances, please contact server staff.
 
-    - title: Joining the Server
-
-      color: 0xFFFFFF
-
-      description: >
-        First, please read the server rules. 
-        
-        Afterwards, you can use the buttons below to grant yourself server access and pronoun roles.
-        
-        Please also set your nickname to reasonably reflect the name(s) you prefer.
 
     - title: MQD Facebook Group
 
@@ -32,6 +22,19 @@
         
         Most announcements are sent both to this server and there.
 
+
+    - title: Joining the Server
+
+      color: 0xFFFFFF
+
+      description: >
+        First, please read the server rules. 
+        
+        Afterwards, you can use the buttons below to grant yourself server access and pronoun roles.
+        
+        Please also set your nickname to reasonably reflect the name(s) you prefer.
+
+
     - title: Rules
 
       description: >
@@ -40,8 +43,7 @@
         the [MQD Safer Spaces Policy](https://bit.ly/MQD-SSP)
         
         and [Discord's Community Guidelines](https://discord.com/guidelines). 
-        
-        After reading, please set your pronouns and server nickname to reflect how you'd like to be referred to.
+
 
 - type: rules
 
@@ -102,6 +104,7 @@
       React ❓ to find out more about a PluralKit message, or ❗ to ping the member sent it.
       
       When using PluralKit, please set a system tag on this server.
+
 
 - type: roles
 
@@ -208,6 +211,7 @@
       description: "Check PK"
     "1001065129540071464":
       description: "Ask for pronouns"
+
 
 - type: roles
 
