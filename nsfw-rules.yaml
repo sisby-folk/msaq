@@ -18,10 +18,8 @@
 - type: rules
 
   rules:
-    No images or embeds: >
-      Links to images should be captioned with CWs and a spoilered description. 
-      
-      This space isn't for sharing pornography - we're expecting discussion starters, memes, and sfw images.
+    Spoiler/CW Images: >
+      All NSFW or related images should be spoilered and warned for, providing CWs such as `nsfw`, `nsfw text`, `genetalia`, etc.
 
     No Play: >
       whether sfw or nsfw, take that to another server or to DMs
