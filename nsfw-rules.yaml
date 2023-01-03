@@ -1,18 +1,25 @@
 - type: embed
 
   embeds:
-    - title: NSFW Channel Rules
+    - title: MSA Queer Discord NSFW Spaces
 
       color: 0xFFFFFF
 
       description: >
-        The channels in this category are 18+ discussion spaces covering various topics.
+        The channels in this category are safe discussion spaces for 18+ topics.
 
 
-        As a queer community, we feel that it is essential to provide these spaces for discussion and expression.
+        As a queer community, we feel that these spaces are essential for discussion and expression.
 
 
         Please respect the needs of other members and our community.
+
+    - title: Rules
+
+      description: >
+        While using these channels, please follow the below rules.
+        
+        All server-wide rules and CWs still apply here.
 
 
 - type: rules
