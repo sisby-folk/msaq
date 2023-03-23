@@ -225,6 +225,21 @@
 
 - type: roles
 
+  id: ping-roles
+
+  title: "Ping Roles"
+  color: 0xe7c52d
+  description: "You can elect to take these roles if you'd like to be pinged at specific times."
+  template: "{EMOJI} **{NAME}**: {DESCRIPTION}"
+
+  roles:
+    "1088267981483671632":
+      description: "Ping me to help provide image descriptions."
+      emoji: 🖼️
+
+
+- type: roles
+
   id: access-roles
 
   title: "Access Roles"
