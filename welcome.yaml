@@ -236,6 +236,12 @@
     "1088267981483671632":
       description: "Ping me to help provide image descriptions."
       emoji: 🖼️
+    "1144089084160118885":
+      description: "Ping me about weekly LGBTea gatherings."
+      emoji: ☕
+    "1144089094855606272":
+      description: "Ping me about weekly Queer Beers gatherings."
+      emoji: 🥂
 
 
 - type: roles
